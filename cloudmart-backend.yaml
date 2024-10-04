@@ -30,7 +30,7 @@ spec:
         - name: OPENAI_ASSISTANT_ID
           value: "XXOPENAI_ASSISTANT_IDXX"
         - name: AZURE_ENDPOINT
-          value: "XXOPENAI_ASSISTANT_ID##"
+          value: "XXAZURE_ENDPOINTXX"
         - name: AZURE_API_KEY
           value: "XXAZURE_API_KEYXX"
 ---
